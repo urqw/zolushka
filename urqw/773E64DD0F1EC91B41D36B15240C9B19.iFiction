@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>773E64DD0F1EC91B41D36B15240C9B19</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Золушка</title>
+			<author>Юрий Павленко (Goraph)</author>
+			<language>ru</language>
+			<headline>Классические сказки, пересказанные Горафом</headline>
+			<firstpublished>2016-04-24</firstpublished>
+			<genre>Юмор</genre>
+			<group>URQ</group>
+			<description>Данное классическое произведение содержит сцены секса, насилия, черной магии, поклонения Люциферу и категорически не рекомендуется для проигрывания лицами не достигшими 18-летнего возраста.<br/>Это игра для маленьких девочек (достигших 18-летнего возраста) с тремя концовками, моральным выбором и поучительными выводами в конце.</description>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#zolushka</url>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-09-25</originated>
+		</colophon>
+	</story>
+</ifindex>
