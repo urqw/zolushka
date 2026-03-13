@@ -4,7 +4,7 @@ Text-based game "Cinderella" (Russian: "Золушка") by Yuri Pavlenko (Russi
 
 The game is in Russian and developed for [UrqW](https://github.com/urqw/UrqW) text-based game engine.
 
-This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/#zolushka).
+This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/?id=zolushka).
 
 The game was first published on April 24, 2016.
 
